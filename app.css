@@ -1,0 +1,23 @@
+
+
+img{
+    width: 30%;
+    /* margin: 1.6666%; */
+    margin: calc(10%/6);
+}
+
+/* instead of calculating the margin at 
+1.6666%, you can adjust the margin: calc
+(10%/6)
+
+*/
+
+nav{
+    font-family: 'Permanent Marker', cursive;'
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 20px 0;
+    font-size: 35px;
+}
